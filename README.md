@@ -1,7 +1,8 @@
 Built ggsol.io & mcrc.space
 - _ggsol.io_ - solana casino game - fully running
 - _mcrc.space_ - solana & evm & bank casino game(any payment available) - it's currently UI updating now
-  
+- _betlive.site_ - new style of casino game
+- 
 Landing page
 <img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/7c98e48e-1f29-4d1f-8e06-24acd1ec3d43" />
 Roulette page
