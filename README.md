@@ -1,8 +1,3 @@
-I have built
-- https://ggsol.io - solana casino game - fully running
-- https://mcrc.space - solana & evm & bank casino game(any payment available) - it's currently UI updating now
-- https://betlive.site - new style of casino game
-- https://crocrash.io - crash game on cronos chain
 - check more games on my portfolio: https://trycoco.me
 
 Landing page
