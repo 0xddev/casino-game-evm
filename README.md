@@ -1,4 +1,4 @@
-- check more games on my portfolio: https://trycoco.me
+
 
 Landing page
 <img width="1913" height="906" alt="image" src="https://github.com/user-attachments/assets/7c98e48e-1f29-4d1f-8e06-24acd1ec3d43" />
@@ -59,8 +59,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 # 👨‍💻 Author
 DM me on telegram for full working version of this project
-### 📞 Telegram: [d0sc4u](https://t.me/d0sc4u)   
-https://t.me/d0sc4u
+### 📞 Telegram: [d0sc4u](https://t.me/sei_dev)   
+https://t.me/sei_dev
 
 
 Once we connect on Telegram, we can discuss further details through other communication channels.
